@@ -217,8 +217,8 @@ function draw() {
     //Speech
     speech(30, "No! That Was Not Meant To Happen", 75, 0);
     speech(31, "But... I Must Appreciate Your Wits", 75, 10);
-    speech(32, "So.. You Won The Game Now", 65, 10);
-    speech(33, "I Am Sending You To The Credits Scene Now", 85, 10);
+    speech(32, "So.. You Won The Game ", 65, 10);
+    speech(33, "I Am Sending You To The Credits Scene ", 85, 10);
     speech(34, "Bye Bye.. Also Remember One More Thing", 85, 10);
     speech(35, "DON'T COME BACK!", 75, 20);
     console.log(speechState);
@@ -232,7 +232,8 @@ function draw() {
     credit(1,"Not Made In Javascript",130,15);
     credit(2,"Thanks For Not Playing A Game",100,15);
     credit(3,"I Hope You Didn't Like It",100,15);
-    credit(4,"The End (Maybe?)",Infinity,15);
+    credit(4,"Now You Can Go And Play A Game",100,15);
+    credit(5,"The End (Maybe?)",Infinity,15);
   }
   drawSprites();
 }
