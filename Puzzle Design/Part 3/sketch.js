@@ -234,6 +234,7 @@ function draw() {
     credit(3,"I Hope You Didn't Like It",100,15);
     credit(4,"Now You Can Go And Play A Game",100,15);
     credit(5,"The End (Maybe?)",Infinity,15);
+    
   }
   drawSprites();
 }
