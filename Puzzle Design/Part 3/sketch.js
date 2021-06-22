@@ -229,11 +229,10 @@ function draw() {
     Trophy.visible = false;
     background(0, 0, 0);
     credit(0,"Not A Game By Krishanth",130,15);
-    credit(1,"Not Done With The Help Of Thahira Shah",130,15);
-    credit(2,"Not Made In Javascript",130,15);
-    credit(3,"Thanks For Not Playing A Game",100,15);
-    credit(4,"I Hope You Didn't Like It",100,15);
-    credit(5,"The End (Maybe?)",Infinity,15);
+    credit(1,"Not Made In Javascript",130,15);
+    credit(2,"Thanks For Not Playing A Game",100,15);
+    credit(3,"I Hope You Didn't Like It",100,15);
+    credit(4,"The End (Maybe?)",Infinity,15);
   }
   drawSprites();
 }
