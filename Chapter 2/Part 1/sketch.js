@@ -22,8 +22,8 @@ var Thud;
 function preload() {
   //Images
   backgroundImage = loadImage("Assets/background.png");
-  muteI = loadImage("Assets/mute.png");
-  unmuteI = loadImage("Assets/unmute.png");
+  muteI = loadImage("Assets/Mute.png");
+  unmuteI = loadImage("Assets/Unmute.png");
   //Sound
   Thud = loadSound("Assets/Thud.wav");
 }
